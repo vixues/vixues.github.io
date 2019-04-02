@@ -11,12 +11,6 @@ Li, Weikai, Cheng, Yuanqi, and Yang, Zhiming (2019), Geo-fO2: Integrated Softwar
 ### References for models:
 __AMPHIBOLE__
 
-Allen, J. C., & Boettcher, A. L. (1978). Amphiboles in andesite and basalt; II, Stability as a function of P-T-fH2O-fO2. American Mineralogist, 63(11-12), 1074-1087.
-
-Eggler, D. H. (1972). Amphibole stability in H2O-undersaturated calc-alkaline melts. Earth and Planetary Science Letters, 15(1), 28-34. [doi.org/10.1016/0012-821X(72)90025-8](https://doi.org/10.1016/0012-821X(72)90025-8)
-
-Nandedkar, R. H., Ulmer, P., & Müntener, O. (2014). Fractional crystallization of primitive, hydrous arc magmas: an experimental study at 0.7 GPa. Contributions to Mineralogy and Petrology, 167(6), 1015. [doi.org/10.1007/s00410-014-1015-5](https://doi.org/10.1007/s00410-014-1015-5)
-
 Ridolfi, F., & Renzulli, A. (2012). Calcic amphiboles in calc-alkaline and alkaline magmas: thermobarometric and chemometric empirical equations valid up to 1,130° C and 2.2 GPa. Contributions to Mineralogy and Petrology, 163(5), 877-895. [doi.org/10.1007/s00410-011-0704-6](https://doi.org/10.1007/s00410-011-0704-6)
 
 Ridolfi F, Renzulli A, Puerini M. (2010). Stability and chemical equilibrium of amphibole in calc-alkaline magmas: an overview, new thermobarometric formulations and application to subduction–related volcanoes. Contributions to Mineralogy and Petrology 160(1), 45–66. [doi.org/10.1007/s00410-009-0465-7](https://doi.org/10.1007/s00410-009-0465-7)
