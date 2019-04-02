@@ -13,6 +13,6 @@ Documentation and examples that should help in getting started with Geo-fO2 are 
 
 [Li et al. (2019).pdf]()
 
-[Model input Excel tables.rar]()
+[Model input Excel tables.rar](files/Model_Input_Excel_Tables.rar)
 
 __Note:__ We strongly suggest that the application of this software should be based on systematic mineralogical investigations of rock samples!
