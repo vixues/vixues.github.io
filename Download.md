@@ -5,9 +5,9 @@ permalink: /Download/
 ---
 
 ### __Download Geo-fO2__
-The latest version is Geo-fO2_v0.1 posted on March 30th, 2019
+The latest version is Geo-fO2_v0.1 posted on April 2, 2019
 
-[Geo-fO2_v0.1](files/Geo-fO2.exe) (February 30th, 2019)
+[Geo-fO2_v0.1](files/Geo-fO2.exe) (April 2, 2019)
 
 #### __Release Notes to Geo-fO2_v0.1:__
 
