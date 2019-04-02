@@ -9,7 +9,7 @@ The latest version is Geo-fO2_v0.1 posted on March 30th, 2019
 
 [Geo-fO2_v0.1](files/Geo-fO2.exe) (February 30th, 2019)
 
-#### __Release Notes to Geo-fO2_v1.0:__
+#### __Release Notes to Geo-fO2_v0.1:__
 
 - Included oxybarometers and thermobarometers of amphibole, zircon and biotite.
 - Control panel interfaces consist of one main interface and three mineral sub-interfaces (“Amphibole”, “Zircon”, and “Biotite”). 
