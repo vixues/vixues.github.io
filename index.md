@@ -5,7 +5,7 @@
 layout: home
 ---
 
-## __Welcome to Geo-fO2!__
+ __Welcome to Geo-fO2!__
 
 Geo-fO2 is a specialized software for analysis of magmatic oxygen fugacity (fO2) on the basis of oxybarometers and thermobarometers for common minerals in intermediate–silicic magmas. It is written in Python and described in a software brief in G-cubed (Li et al., 2019). With user-friendly interfaces, it is easy to input files (.csv or Excel files), output data in Excel tables, and plot results as binary diagrams that can be saved as vector graphics and modified using image-processing software. Geo-fO2 is packaged as an installation-free .exe file that can run in Windows platforms. Under Mac OS platforms, the user can also use Geo-fO2 through the [Winebottler application](http://winebottler.kronenberg.org/). The current version is v1.0 posted on April 2, 2019. 
 
