@@ -11,4 +11,4 @@ Geo-fO2 is a specialized software for analysis of magmatic oxygen fugacity (fO2)
 
 You are welcome to use and improve the software, under the condition that you should acknowledge all the contributors by citing the appropriate references with any results (see the “How to cite” page). The software can be downloaded in the “Download” page. If there are any problems with running software or calculation then please contact us through the information in the “Support” page.
 
-__Download link:__ [Geo-fo2_v0.1.exe](files/Geo-fO2.exe)
+__Download link:__ [Geo-fo2_v0.1.exe]
