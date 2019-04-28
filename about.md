@@ -3,7 +3,7 @@ layout: page
 title: About us
 permalink: /about/
 ---
-Geo-fO2 is developed and maintained by [Li Weikai]() and Cheng Yuanqi.
+Geo-fO2 is developed and maintained by [Li Weikai](geo-fo2@hotmail.com) and [Cheng Yuanqi](qyc@pku.edu.cn).
 
 #### __Acknowledgements__ 
 
