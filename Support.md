@@ -11,7 +11,7 @@ Contact E-mail: [geo-fo2@hotmail.com](geo-fo2@hotmail.com)
 
 Documentation and examples that should help in getting started with Geo-fO2 are given in below PDF file. In order to avoid calculation errors caused by special characters in input files, we suggest the user uses the model input Excel Tables provided in the .rar file:
 
-[Li et al. (2019).pdf]()
+[Li et al. (2019).pdf](files/Li_et_al-2019-Geochemistry,_Geophysics,_Geosystems.pdf)
 
 [Model input Excel tables.rar](files/Model_Input_Excel_Tables.rar)
 
